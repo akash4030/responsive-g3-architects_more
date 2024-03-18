@@ -194,6 +194,7 @@ main {
 }
 
 .tearm-img img {
+    max-width: 80%;
     height: 90%;
     margin-left: 90px;
 }
@@ -353,7 +354,7 @@ main {
 
     .ten-years-badge {
         position: static;
-        max-width: 280px;
+        max-width: 240px;
 
     }
 
